@@ -3,4 +3,5 @@
 .*      export-ignore
 tests   export-ignore
 *.js   filter=updateAPIKey
+*.js   filter=updateAPIKey
 
